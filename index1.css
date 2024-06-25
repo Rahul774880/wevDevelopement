@@ -1,0 +1,25 @@
+/* div{
+    background-color: cadetblue;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    box-shadow: 2px 2px 2px black;
+} */
+
+#one{
+    color: blue;
+}
+
+.two{
+    color: green;
+}
+
+a[href="http://google.com"]{
+    /* Note:- this is attribute selector */
+    color: cadetblue;
+    /* background-color: teal; */
+}
+
+input[type="text"]{
+    /* this is also attribute selector */
+    background-color: gray;
+}
